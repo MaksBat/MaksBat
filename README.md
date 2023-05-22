@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **MaksBat/MaksBat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/btbUGSHh3f6eBjbDfh/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qr3ZyWgwGQjbJ1oSOf/giphy.gif" width="100"/>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
@@ -26,3 +26,7 @@ Here are some ideas to get you started:
        </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=MaksBat&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
